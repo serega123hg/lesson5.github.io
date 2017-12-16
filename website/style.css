@@ -1,0 +1,156 @@
+body{
+	width: 100%;
+	overflow-x:hidden;
+}
+.navbar_nav_background-image{
+	background-image: Images/navbar/Placeholder.png;
+	height: 84px;
+
+}
+.ailgn-logo{
+	position: relative;
+   padding-top: 30px;
+   padding-left: 68px;  
+   width: 8vw; 
+}
+
+.nav-links_style {
+	position: relative;
+	text-decoration: none;
+  padding-left: 10px;
+  font-size: 1.4vw;
+  font-family: "Montserrat";
+  color: rgb(52, 62, 92);
+  line-height: 1.2;
+}
+.navbar-links_align{
+    position: relative;
+	height: 20px;
+	padding-left: 30vw;
+    top: -27px;
+    
+}
+.navbar-cart_wrapper{
+	position: relative;
+	height: 2vh;
+	padding-left: 75vw;
+    top: -7.9vh;
+    width: 100px;
+}
+
+.inside{
+	position: relative;
+	display: inline-block;
+	margin-left: 4px;
+	top: 2px;
+} 
+.inside span{
+	display:inline-block;
+    position:absolute;
+    top: 2.2px;
+    left: 7px;
+}
+.cart-align{
+    position: relative;
+	top: -3px;
+
+}
+.sign-in_button{
+	position: relative;
+	display: inline-block;
+	top: -10vh;
+	left: 87vw;
+}
+.sign-in_button span{
+	display: inline-block;
+	position: absolute;
+	top: 8px;
+	left: 19px;
+}
+.top-image{
+	background-image: Images/top/Placeholder.png;
+	height: 40px; 
+  
+}
+
+.line{
+  background-color: rgb(240, 242, 247);
+   left: 0px;
+   height: 1px;
+   width: 98vw;
+}
+.Links-top{
+	 padding-left: 60px;
+	 margin-top: 14px; 
+}
+.Links-top_style{
+  text-decoration: none;
+  padding-left: 10px;
+  font-size: 1.2vw;
+  font-family: "Montserrat";
+  color: rgb(52, 62, 92);
+  line-height: 1.2;
+  position: relative;
+}
+.Support{
+ font-size: 1.2vw;
+ font-family: "Montserrat";
+ position: relative;
+ color: rgb(52, 62, 92);
+ text-decoration: none;
+ padding-left:67vw;
+ top: -3.2vh;
+}
+.Top-search{
+	position: relative;
+	left: 80vw;
+	top: -6vh;
+}
+.inside-search{
+   font-size: 1.2vw;
+ font-family: "Montserrat";
+ position: relative;
+ color: rgb(52, 62, 92);
+}
+.body-image{
+	background-image:url(Images/body/iphone_6_space_gray_v3_.RGB_color.0115.png); 
+    height: 500px;
+}
+.iphone-text-align{
+position: relative;
+top: 150px;
+left: 250px;
+float: left;
+}
+.text-align{
+  position: relative;
+  font-size: 16px;
+  font-family: "CrimsonText";
+  color: rgb(255, 255, 255);
+  line-height: 1.5;
+  text-align: left;
+  left: -60px;
+  top: 270px;
+  float: left;
+
+}
+.btn-buy{
+  position: relative;
+	display: inline-block;
+	top: 360px;
+	left: -520px;
+}
+.buy-text-inside{
+	display:inline-block;
+    position:absolute;
+    top: 28px;
+    left: 83px; 
+     font-size: 16px;
+  font-family: "CrimsonText";
+  color: rgb(255, 255, 255);
+}
+
+
+
+
+
